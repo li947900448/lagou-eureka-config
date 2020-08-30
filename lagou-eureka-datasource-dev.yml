@@ -7,4 +7,4 @@ spring:
 
 hold: 
   time: 10
-  counts: 5
+  counts: 3
